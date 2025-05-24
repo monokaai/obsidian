@@ -11,14 +11,14 @@
             "id": "8219018b806f93a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "ノート自動リファイン.md",
-                "mode": "source",
-                "source": false
+                "aFile": "private/",
+                "bFile": "private/",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ノート自動リファイン"
+              "icon": "diff",
+              "title": "Diff:"
             },
             "group": "54c1cc9d2f06101e"
           }
@@ -176,13 +176,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ノート自動リファイン.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ノート自動リファインのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -215,11 +214,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4679642eaf719c1d",
+  "active": "8219018b806f93a7",
   "lastOpenFiles": [
+    "ノート自動リファイン.md",
     "private/Minutes",
     "00_README.md",
-    "ノート自動リファイン.md",
     "obsidian.md",
     "Cursor.md",
     "20250522_ガス工事見積もり.md",
