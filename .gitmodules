@@ -1,4 +1,4 @@
 [submodule "private"]
-	path = private
-	url = https://github.com/monokaai/obsidian_private.git
+    path = private
+    url = https://github.com/monokaai/obsidian_private.git
     branch = main
