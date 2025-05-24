@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "7d70fd1248fbeec5",
+    "type": "split",
+    "children": [
+      {
+        "id": "513b67f012f43b37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8219018b806f93a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_README"
+            },
+            "group": "54c1cc9d2f06101e"
+          }
+        ]
+      },
+      {
+        "id": "f17695d4ca75aeeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d39ab348dcea13c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_README"
+            },
+            "group": "54c1cc9d2f06101e"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f3848e9df4632d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b5351fbfed4472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4679642eaf719c1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "fdeffee0751fc5f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "6b9b9da6e33ee377",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "140bfd38395d06b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9602f3a48d5f831b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3df687e5fb80c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidian"
+            }
+          },
+          {
+            "id": "2262378da0f5b690",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "e574513be3c73998",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "aa56d28ecc316902",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "2f017720f9694129",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "00_READMEのアウトライン"
+            }
+          },
+          {
+            "id": "1210d937b42200fa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 562.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4679642eaf719c1d",
+  "lastOpenFiles": [
+    "private/Daily_notes/20250522_ガス工事見積もり.md",
+    "private/Daily_notes",
+    "private/Books/唯我-このまま今の会社にいていいのか？と一度でも思ったら読む 転職の思考法.md",
+    "private/Books/陽平-Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus.md",
+    "private/Books/龍太郎-SCRUM BOOT CAMP THE BOOK【増補改訂版】 スクラムチームではじめるアジャイル開発.md",
+    "private/Books/哲朗-ビジネスモデル2.0図鑑.md",
+    "private/Books/高弘-The DevOps ハンドブック 理論・原則・実践のすべて.md",
+    "private/Books/鈴木祐-科学的な適職【ビジネス書グランプリ2021 自己啓発部門 受賞！】.md",
+    "private/Books/篤志-今さら聞けないLinux基本コマンド解説～GNU Coreutils 技術の泉シリーズ.md",
+    "private/Books/竜一-エンジニアのためのWord再入門講座 新版 美しくメンテナンス性の高い開発ドキュメントの作り方.md",
+    "private/Books/篤-Visual Studio Codeデバッグ技術 技術の泉シリーズ.md",
+    "private/Books/祥寛-改訂新版JavaScript本格入門 ～モダンスタイルによる基礎から現場での応用まで.md",
+    "private/Books/祐司-仏教思想のゼロポイント―「悟り」とは何か―.md",
+    "private/Books/祐介-新しいLinuxの教科書.md",
+    "private/Books/理-勝ってる投資家はみんな知っているチャート分析.md",
+    "private/Books/津耶乃-つくってマスターPython - 機械学習・Webアプリケーション・スクレイピング・文書処理ができる！.md",
+    "private/Books/杉山明日香-ワインの授業　フランス編.md",
+    "private/Books/明仁-現場で使える Django の教科書《基礎編》［4.2 LTS 対応版］.md",
+    "private/Books/後田亨-生命保険は「入るほど損」？！.md",
+    "private/Books/優峻-問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本.md",
+    "private/Books/弘貴、tell-k、株式会社ビープラウド-自走プログラマー　～Pythonの先輩が教えるプロジェクト開発のベストプラクティス120.md",
+    "private/Books/康男-自分で天気を予報できる本.md",
+    "private/Books/康之、ITのプロ46-ITエンジニアのための【業務知識】がわかる本 第5版.md",
+    "private/Books/僚太-プロを目指す人のためのTypeScript入門　安全なコードの書き方から高度な型の使い方まで Software Design plus.md",
+    "private/Books/佐藤航陽-未来に先回りする思考法.md",
+    "private/Books/ミック-達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ.md",
+    "private/Books/久保憂希也-経理以外の人のための 日本一やさしくて使える会計の本.md",
+    "private/Books",
+    "private",
+    "Books"
+  ]
+}
