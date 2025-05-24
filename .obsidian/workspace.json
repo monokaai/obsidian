@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_README.md",
+                "file": "ノート自動リファイン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_README"
+              "title": "ノート自動リファイン"
             },
             "group": "54c1cc9d2f06101e"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_README.md",
+                "file": "ノート自動リファイン.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_README"
+              "title": "ノート自動リファイン"
             },
             "group": "54c1cc9d2f06101e"
           }
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_README.md",
+                "file": "ノート自動リファイン.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00_READMEのアウトライン"
+              "title": "ノート自動リファインのアウトライン"
             }
           },
           {
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5,
-    "collapsed": true
+    "width": 562.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +217,14 @@
   },
   "active": "4679642eaf719c1d",
   "lastOpenFiles": [
-    "private/Daily_notes/20250522_ガス工事見積もり.md",
+    "private/Minutes",
+    "00_README.md",
+    "ノート自動リファイン.md",
+    "obsidian.md",
+    "Cursor.md",
+    "20250522_ガス工事見積もり.md",
+    "README.md",
+    "private/Minutes/20250522_ガス工事見積もり.md",
     "private/Daily_notes",
     "private/Books/唯我-このまま今の会社にいていいのか？と一度でも思ったら読む 転職の思考法.md",
     "private/Books/陽平-Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus.md",
@@ -238,13 +244,6 @@
     "private/Books/明仁-現場で使える Django の教科書《基礎編》［4.2 LTS 対応版］.md",
     "private/Books/後田亨-生命保険は「入るほど損」？！.md",
     "private/Books/優峻-問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本.md",
-    "private/Books/弘貴、tell-k、株式会社ビープラウド-自走プログラマー　～Pythonの先輩が教えるプロジェクト開発のベストプラクティス120.md",
-    "private/Books/康男-自分で天気を予報できる本.md",
-    "private/Books/康之、ITのプロ46-ITエンジニアのための【業務知識】がわかる本 第5版.md",
-    "private/Books/僚太-プロを目指す人のためのTypeScript入門　安全なコードの書き方から高度な型の使い方まで Software Design plus.md",
-    "private/Books/佐藤航陽-未来に先回りする思考法.md",
-    "private/Books/ミック-達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ.md",
-    "private/Books/久保憂希也-経理以外の人のための 日本一やさしくて使える会計の本.md",
     "private/Books",
     "private",
     "Books"
