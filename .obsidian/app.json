@@ -2,6 +2,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "trashOption": "local",
-  "newFileLocation": "current",
-  "attachmentFolderPath": "90_assets"
+  "newFileLocation": "root",
+  "attachmentFolderPath": "90_assets",
+  "newFileFolderPath": "/"
 }
