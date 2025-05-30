@@ -25,4 +25,8 @@ Terra Drone株式会社は2016年設立の日本発グローバルドローン�
 - 2024年：ISMS認証取得、米Aloft出資、SLAM技術搭載3Dスキャナ等新製品発売、東証グロース上場、世界ランキング1位（4年ぶり2度目）。
 - 2025年：屋内点検用ドローン「Terra Xross 1」日米同時販売。
 
-出典：[公式サイト](https://terra-drone.net/company)
+## 関連インタビュー
+- [ハードやIoT系のエンジニアとして挑戦したい思い](## ハードやIoT系のエンジニアとして挑戦したい思い)
+	- UTM（運航管理システム）はPythonをメイン、既存システムのバックエンドはGo、フロントはReact
+
+出典：[公式サイト](https://terra-drone.net/company) [プレスリリース](https://prtimes.jp/main/html/searchrlp/company_id/20194) [会社紹介資料](https://speakerdeck.com/terradrone1/terradrone-companyoverview20220405)
