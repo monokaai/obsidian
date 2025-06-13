@@ -22,7 +22,8 @@ AAM（Advanced Air Mobility）は、電動・ハイブリッド航空機やeVTOL
 - 各国・地域ごとの規制調和と国際標準化
 
 ## 関連
-関連： [[FAA]] [[eVTOL]] [[ドローン]] [[航空法]] [[UAM]]
+関連：
+ [[FAA]] [[eVTOL]] [[ドローン]] [[航空法]] [[UAM]]
 
 ## 出典：
 - [Advanced Air Mobility in 2024: Where the Industry is Heading - Honeywell](https://www.honeywell.com/cz/en/news/2024/10/advanced-air-mobility-in-2024-where-the-industry-is-heading)

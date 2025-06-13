@@ -3,5 +3,7 @@
   "dataview",
   "obsidian-icon-folder",
   "obsidian-kindle-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "pdf-plus",
+  "obsidian-linter"
 ]

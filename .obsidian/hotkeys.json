@@ -7,36 +7,22 @@
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": ","
-    }
-  ],
+  "app:go-back": [],
+  "app:go-forward": [],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
         "Shift"
       ],
-      "key": "."
+      "key": "'"
     }
   ],
-  "app:go-back": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
-      "key": "ArrowLeft"
-    }
-  ],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowRight"
+      "key": ";"
     }
   ]
 }

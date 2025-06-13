@@ -6,4 +6,10 @@ UTM（Unmanned Aircraft System Traffic Management）は、ドローンや[[空�
 
 UTMは、ドローンや空飛ぶクルマなどの低空域モビリティの運航管理において、[[3Dスキャナ]]による高精度な空間データ取得と連携することで、空域の状況把握や障害物回避、インフラ点検の自動化などに活用されている。3Dスキャナ技術の進化により、UTMの安全性・効率性がさらに向上している。
 
-関連：[[エアモビリティ]]
+Systemが末尾について(UTMS)と呼ばれることもある。
+
+関連：
+[[エアモビリティ]]
+
+- [[無人航空機の運航管理（UTM）に関する 制度整備の方針.pdf#page=1&selection=3,0,3,3&color=yellow|無人航空機の運航管理（UTM）に関する 制度整備の方針, p.1]]
+- [ドローン運航管理システム（UTM）について](https://www.tokio-dr.jp/publication/report/riskmanagement/riskmanagement-362.html)

@@ -25,7 +25,8 @@ FAA（Federal Aviation Administration）は、アメリカの航空行政を担�
 - AAM（Advanced Air Mobility）：空飛ぶクルマやeVTOLの型式認証・運航ルール整備が進行中。
 
 ## 関連
-関連： [[ドローン]] [[航空法]] [[AAM]] [[RemoteID]] [[BVLOS]]
+関連：
+ [[ドローン]] [[航空法]] [[AAM]] [[RemoteID]] [[BVLOS]]
 
 ## 出典：
 - [FAA Extends Remote ID Enforcement Date Six Months - FAA公式](https://www.faa.gov/newsroom/faa-extends-remote-id-enforcement-date-six-months)

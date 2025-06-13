@@ -2,4 +2,5 @@ S3_image_uploaderは、Amazon S3などのクラウドストレージサービス
 
 参考：[Obsidian Community Plugins - S3 Image Uploader](https://obsidian.md/plugins?id=obsidian-s3-image-uploader)
 
-関連： [[Obsidian]]
+関連：
+ [[Obsidian]]

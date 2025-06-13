@@ -27,9 +27,11 @@ eVTOL（Electric Vertical Take-Off and Landing）は、電動推進による垂�
 - 公共交通や既存インフラとの連携、持続可能なビジネスモデルの構築
 
 ## 関連
-関連： [[AAM]] [[UAM]] [[FAA]] [[ドローン]] [[バーティポート]]
+関連：
+ [[AAM]] [[UAM]] [[FAA]] [[ドローン]] [[バーティポート]]
 
 ## 出典：
 - [What to Expect From the eVTOL Market in 2024 and Beyond - IDTechEx](https://www.idtechex.com/en/research-article/what-to-expect-from-the-evtol-market-in-2024-and-beyond/31059)
 - [eVTOL Aircraft Market - Market.us](https://market.us/report/evtol-aircraft-market/)
 - [eVTOL 飞机市场规模、份额及预测报告，2025-2034 年 - Global Market Insights](https://www.gminsights.com/zh/industry-analysis/evtol-aircraft-market)
+

@@ -2,4 +2,5 @@ VR（Virtual Reality／仮想現実）は、コンピュータによって生成
 
 出典：[Wikipedia: 仮想現実](https://ja.wikipedia.org/wiki/%E4%BB%AE%E6%83%B3%E7%8F%BE%E5%AE%9F)
 
-関連：[[AR]] [[MR]] [[空間コンピューティング]]
+関連：
+[[AR]] [[MR]] [[空間コンピューティング]]
